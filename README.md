@@ -153,3 +153,6 @@ SELECT ename FROM manager WHERE deptno NOT IN (10, 30, 40);
 ```
 ### OUTPUT:
 ![image](https://github.com/Saravana-kumar369/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/117925254/7a19bfb9-3fa8-4b70-90ca-4dcd68930ba3)
+
+## RESULT:
+thus the DML queries using sql was executed successfully
